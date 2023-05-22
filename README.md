@@ -1,2 +1,2 @@
-# RaspberryPi-based-camera-trap
-Raspberry pi zero based object detection project to optimise storage and accurate data gathering in a camera trap system.
+# ESP32Cam-based-camera-trap
+ESP32Cam based camera project to optimise storage, accurately gather data and manage the gathered data of the camera trap system.
